@@ -5,6 +5,7 @@
 <img alt="prompt-clean-white" src=".github/prompt-clean-white.PNG">
 <img alt="prompt-created" src=".github/prompt-created.PNG">
 </p>
+
 ## 🌟 Sobre o Projeto
 
 Este é um projeto alternativo ao repositório [NLW AI Mastery](https://github.com/rocketseat-education/nlw-ai-mastery/tree/main) da Rocketseat. Ele foi recriado usando [Nestjs](https://nestjs.com/) e [Nextjs 13](https://nextjs.org/blog/next-13) para oferecer uma abordagem diferente ao desenvolvimento de aplicações de IA.
